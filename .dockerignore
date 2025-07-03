@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.mp4
+*.gif
+*.png
+*.jpg
+*.jpeg
+.DS_Store
+*.ipynb
+images/
+demo/
